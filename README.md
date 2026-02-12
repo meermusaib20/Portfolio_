@@ -1,16 +1,38 @@
-# React + Vite
+# 🚀 Mir Musaib – AI Engineer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Website:  
+👉 https://meermusaib20.github.io/Portfolio_/
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👋 About This Project
 
-## React Compiler
+This is my personal AI-focused portfolio website built using modern frontend technologies.  
+It showcases my machine learning projects, technical skills, experience, and resume.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The goal of this portfolio is to present my work in Artificial Intelligence, Machine Learning, and scalable system design in a clean and professional format.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧠 Tech Stack
+
+- React (Vite)
+- React Router (HashRouter for GitHub Pages)
+- Tailwind CSS
+- Canvas API (Neural Network Background Animation)
+- GitHub Pages (Deployment)
+
+---
+
+## ✨ Features
+
+- Responsive Design (Mobile + Desktop)
+- Animated Neural Network Background
+- Professional Hero Section
+- Detailed Project Pages
+- Resume Viewer
+- Contact Section with Social Links
+- Smooth UI Interactions
+- GitHub Deployment Ready
+
+---
