@@ -24,7 +24,7 @@ The goal of this portfolio is to present my work in Artificial Intelligence, Mac
 
 ---
 
-## ✨ Features
+## ✨ Features 
 
 - Responsive Design (Mobile + Desktop)
 - Animated Neural Network Background
