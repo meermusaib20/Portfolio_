@@ -36,3 +36,4 @@ The goal of this portfolio is to present my work in Artificial Intelligence, Mac
 - GitHub Deployment Ready
 
 ---
+ 
