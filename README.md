@@ -10,7 +10,7 @@ Live Website:
 This is my personal AI-focused portfolio website built using modern frontend technologies.  
 It showcases my machine learning projects, technical skills, experience, and resume.
 
-The goal of this portfolio is to present my work in Artificial Intelligence, Machine Learning, and scalable system design in a clean and professional format.
+The goal of this portfolio is to present my work in Artificial Intelligence, Machine Learning, and scalable system design in a clean and professional format.  
 
 ---
 
